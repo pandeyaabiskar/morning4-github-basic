@@ -1,3 +1,3 @@
 import chalk from 'chalk';
 
-console.log(chalk.blue('Hello world after commit!'));
+console.log(chalk.blue('Hello Prakash after commit!'));
